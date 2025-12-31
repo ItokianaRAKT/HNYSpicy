@@ -77,15 +77,13 @@ setInterval(createFireworksCluster, 1000);
 update();
 
 const text = `Hello Spicy.
-Je voulais te souhaiter une merveilleuse année, remplie de joie
-et de petits moments qui comptent vraiment.
-Mais aussi d’emmerdements (surtout par Ghostie 👻), 
-parce que la vie serait nulle sinon (tu sais que j'ai raison😎). 
-Bref, on se retrouve bientôt.
+Je voulais te remercier pour ton message.
+Et te souhaiter une MERVEILLEUSE année, remplie de joies et de belles choses.
+Mais aussi d’emmerdements (signés Ghostie 👻), 
+parce que la vie serait nulle sinon (tu sais que j'ai raison😎).
 (P.S: Merci pour ces dernières semaines magnifiques. J'espères que ce n'était que le début)
-(P.P.S: Le compteur reviens à 0 cette année, donc peut-être que tu seras le premier?
-Qui sais ?😉)
-Ghostie`;
+(P.P.S: Le compteur reviens à 0 cette année, donc PEUT-ÊTRE que tu seras le premier?
+Qui sais ?😉)`;
 
 const element = document.getElementById("typing-text");
 let index = 0;
